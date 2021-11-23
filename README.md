@@ -1,4 +1,4 @@
-### Hi there 👋
+### Se avete qualcosa da dire, noi lo faremo sapere a tutti!
 
 <!--
 **industria01/industria01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
